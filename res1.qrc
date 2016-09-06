@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/terrain/bricks.png</file>
+        <file>images/terrain/camouflage.png</file>
+        <file>images/terrain/concrete.png</file>
+        <file>images/terrain/falcon_normal.png</file>
+        <file>images/terrain/ground.png</file>
+        <file>images/terrain/water.png</file>
+        <file>images/tanks/basic/backward_1.png</file>
+        <file>images/tanks/basic/backward_2.png</file>
+        <file>images/tanks/basic/forward_1.png</file>
+        <file>images/tanks/basic/forward_2.png</file>
+        <file>images/tanks/basic/left_1.png</file>
+        <file>images/tanks/basic/left_2.png</file>
+        <file>images/tanks/basic/right_1.png</file>
+        <file>images/tanks/basic/right_2.png</file>
+        <file>images/tanks/player/backward_1.png</file>
+        <file>images/tanks/player/backward_2.png</file>
+        <file>images/tanks/player/forward_1.png</file>
+        <file>images/tanks/player/forward_2.png</file>
+        <file>images/tanks/player/left_1.png</file>
+        <file>images/tanks/player/left_2.png</file>
+        <file>images/tanks/player/right_1.png</file>
+        <file>images/tanks/player/right_2.png</file>
+        <file>images/tanks/projectile/backward.png</file>
+        <file>images/tanks/projectile/forward.png</file>
+        <file>images/tanks/projectile/left.png</file>
+        <file>images/tanks/projectile/right.png</file>
+        <file>images/tanks/explosion/expl_1.png</file>
+        <file>images/tanks/explosion/expl_2.png</file>
+        <file>images/tanks/explosion/expl_3.png</file>
+        <file>images/tanks/explosion/expl_4.png</file>
+        <file>images/tanks/explosion/expl_5.png</file>
+        <file>images/tanks/explosion/expl_6.png</file>
+        <file>images/tanks/explosion/expl_7.png</file>
+        <file>images/terrain/grey_screen.png</file>
+        <file>images/tanks/armor/backward_1.png</file>
+        <file>images/tanks/armor/backward_2.png</file>
+        <file>images/tanks/armor/forward_1.png</file>
+        <file>images/tanks/armor/forward_2.png</file>
+        <file>images/tanks/armor/left_1.png</file>
+        <file>images/tanks/armor/left_2.png</file>
+        <file>images/tanks/armor/right_1.png</file>
+        <file>images/tanks/armor/right_2.png</file>
+    </qresource>
+</RCC>
